@@ -7,7 +7,7 @@ This is a Tableau dashboard with filter to analyze overtime work, compensation a
 - Job-Related Features:Department, Years at Company, Years in Current Role, Total Working Years.
 - Compensation Metrics: Hourly Rate, Monthly Income, Monthly Rate
 - Satisfaction Metrics: Work-Life Balance, Job Satisfaction, Environment Satisfaction, Relationship Satisfaction.
-= Workforce Logistics: Business Travel, Distance from Home.
+- Workforce Logistics: Business Travel, Distance from Home.
 
 
 ### My Tableau Sceneiro Analysis: See Tableau File
