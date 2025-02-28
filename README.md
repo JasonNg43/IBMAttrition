@@ -14,9 +14,8 @@ This is a Tableau dashboard with filters to analyze overtime work, compensation 
 
 ### My Tableau Sceneiro Analysis:
 - Analyzed 5 features
--- Overtime Work (1 feature)
--- Compensation (2 features: Monthly income, Salary Hike)
--- Management's Impact (2 features: Years since last promotion, Years with current manager)
+  - Overtime Work (1 feature)
+  - Compensation (2 features: Monthly income, Salary Hike)
+  - Management's Impact (2 features: Years since last promotion, Years with current manager)
 - Rationale: these three factors theoretically can be controlled by the company as independent variables
-- Scenarios will be more granular in level of departments and job roles to provide insights
-- Environment, job and relationship satisfaction will be reported as scenario outcome alongside attrition to quantify impact
+- Note: Scenarios will be more granular in level of departments and job roles to provide insights
