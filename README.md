@@ -13,6 +13,7 @@ This is a Tableau dashboard with filters to analyze overtime work, compensation 
 - Consisting of 5 steps: Problem Statement, Time-series Analysis, Sceniro Analysis, Solutions, Quantifying ROI.
 
 ### My Tableau Sceneiro Analysis:
+- Sceniro outcome: enabling to cut down attrition rate from 16% to 5%.
 - Analyzed 5 features
   - Overtime Work (1 feature)
   - Compensation (2 features: Monthly income, Salary Hike)
